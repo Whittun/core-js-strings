@@ -506,7 +506,7 @@ function encodeToRot13(str) {
 }
 
 /**
- * Returns playid card id.
+ * Returns  playid card id.
  *
  * Playing cards initial deck includes the cards in the following order:
  *
